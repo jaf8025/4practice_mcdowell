@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
  *  Repeat of Assignment 4, JavaScript for learning purposes.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+     https://jaf8025.github.io/4practice_mcdowell/
 
 ### Lessons Learned in the Assignment:
 1. Read lesson thoroughly before attempting anything.
